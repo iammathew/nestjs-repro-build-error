@@ -1,0 +1,14 @@
+#Ignore node modules
+node_modules
+
+#Ignore build
+dist
+
+#Ignore .env
+.env
+
+#Ignore coverage reports
+src/coverage
+
+#Ignore package-lock
+package-lock.json
